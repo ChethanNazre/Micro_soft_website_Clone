@@ -80,4 +80,4 @@ A simple and fun Official Microsoft website clone using HTML, Tailwind-CSS
 
 ## Contact
 
-For any queries, please contact me at chethannazre009@gmail.com
+For any queries,contact me at chethannazre009@gmail.com
