@@ -1,2 +1,2 @@
-# Micro_soft-_website_Clone
+# Micro_soft_website_Clone
 A simple and fun Official Microsoft website clone using HTML , CSS - Tailwind
