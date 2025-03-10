@@ -53,7 +53,7 @@ A simple and fun Official Microsoft website clone using HTML, Tailwind-CSS
    - Add the following scripts to your `package.json` file:
      ```json
      "scripts": {
-       "build": "tailwindcss build src/styles.css -o public/styles.css"
+       "build": "tailwindcss build src/output.css -o src/output.css" ///In this folder styles.css is renamed as output.css
      }
      ```
    - Run the build process:
